@@ -1,0 +1,5 @@
+Iterm3, Solarized theme
+    change Profiles > Colors > ANSI Colors > Bright
+    oh-my-zsh > themes > ranman.zsh-theme (https://github.com/ranman/oh-my-zsh/blob/master/themes/ranman.zsh-theme)
+    ZSH theme: Sublime Text
+

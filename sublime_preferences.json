@@ -1,0 +1,20 @@
+{
+    "centurion_color_blue": false,
+    "centurion_color_grey": false,
+    "centurion_color_orange": false,
+    "centurion_color_red": true,
+    "centurion_color_yellow": false,
+    "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 13,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+    ],
+    "scroll_past_end": true,
+    "theme": "Centurion.sublime-theme",
+    "translateTabsToSpace": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}

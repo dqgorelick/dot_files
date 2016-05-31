@@ -1,0 +1,11 @@
+Babel
+BracketHighlighter
+Color Highlighter
+EJS
+GitGutter
+Prettify
+JSX
+Sass
+Theme - Centurion
+Theme - Piatto
+Tomorrow Color Schemes
