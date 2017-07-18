@@ -4,7 +4,7 @@ filetype plugin indent on
 filetype plugin on
 syn on
 set mouse=a
-set relativenumber
+set nu
 set numberwidth=3
 set guifont=Inconsolata\ For\ Powerline
 set guioptions-=r
