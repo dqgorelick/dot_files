@@ -4,7 +4,8 @@ updates: 18 July 2017
 
 ### Random
 
-wonderful font [pragmata pro](https://github.com/deviantfero/dotfiles/blob/master/fonts/PragmataPro.otf)
+- wonderful font [pragmata pro](https://github.com/deviantfero/dotfiles/blob/master/fonts/PragmataPro.otf)
+- change mac os System Preference > General > Dark theme
 
 ### Mac OS Preferences
 
@@ -15,6 +16,15 @@ Only show open dock files:
 Remove Dock animation
 
 `defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock`
+
+### iTerm settings
+
+- change font to PragmataPro for Powerline
+- profiles > window > Style = no title bar
+- profiles > colors > Solarized Dark
+- oh-my-zsh > ranman theme = https://github.com/ranman/oh-my-zsh/blob/master/themes/ranman.zsh-theme
+- appearence > theme = dark
+- tabs = remove all panes
 
 ### Sublime Text
 
