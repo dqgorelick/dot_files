@@ -19,12 +19,13 @@ Remove Dock animation
 
 ### iTerm settings
 
-- change font to PragmataPro for Powerline
+- change font to PragmataPro for Powerline (google for this in github)
 - profiles > window > Style = no title bar
 - profiles > colors > Solarized Dark
 - oh-my-zsh > ranman theme = https://github.com/ranman/oh-my-zsh/blob/master/themes/ranman.zsh-theme
 - appearence > theme = dark
-- tabs = remove all panes
+- tabs = remove all panes (https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars) 
+- window size smoothing = https://superuser.com/questions/581889/iterm-2-window-resizing 
 
 ### Sublime Text
 
