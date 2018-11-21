@@ -1,6 +1,6 @@
 # Configs for new computers
 
-updates: 18 July 2017
+updates: 21 Nov 2018
 
 ### Random
 
@@ -26,6 +26,7 @@ Remove Dock animation
 - appearence > theme = dark
 - tabs = remove all panes (https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars) 
 - window size smoothing = https://superuser.com/questions/581889/iterm-2-window-resizing 
+- allow moving between words = https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x 
 
 ### Sublime Text
 
